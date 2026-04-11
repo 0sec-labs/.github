@@ -1,6 +1,6 @@
 # PwnKit Labs
 
-**Adversarial reliability infrastructure for AI agents.**
+**Open-source adversarial security for the agentic AI era.**
 
 PwnKit Labs builds open-source tools that find failures before attackers, customers, or production do.
 
