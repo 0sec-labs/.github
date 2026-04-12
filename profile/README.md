@@ -9,6 +9,7 @@ PwnKit Labs builds open-source tools that find failures before attackers, custom
 - **pwnkit**: Attack-driven evaluation and autonomous pentesting for web apps, source code, packages, and AI systems.
 - **foxguard**: Linter-fast security scanning and policy checks to prevent regressions before deploy.
 - **opensoar**: Response and orchestration for routing validated failures into real operator workflows.
+- **Noeris**: PwnKit Labs Research OS for autonomous empirical discovery, currently led by a flagship GPU kernel optimization track.
 
 ## Thesis
 
@@ -37,4 +38,4 @@ The org is being consolidated around the core company products now.
 - `pwnkit-cloud` is the hosted/private runtime surface
 - `foxguard` and `opensoar` are sibling products in the same company story
 
-Adjacent tools may stay outside the org until they clearly align with the same buyer and product motion.
+Noeris currently sits adjacent to the core security products: it strengthens the shared research, optimization, and evaluation substrate that future Labs products can build on.
