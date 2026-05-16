@@ -1,15 +1,15 @@
-# PwnKit Labs
+# 0sec Labs
 
 **Open-source adversarial security for the agentic AI era.**
 
-PwnKit Labs builds open-source tools that find failures before attackers, customers, or production do.
+0sec Labs builds open-source tools that find failures before attackers, customers, or production do.
 
 ## Products
 
 - **pwnkit**: Attack-driven evaluation and autonomous pentesting for web apps, source code, packages, and AI systems.
 - **foxguard**: Linter-fast security scanning and policy checks to prevent regressions before deploy.
 - **opensoar**: Response and orchestration for routing validated failures into real operator workflows.
-- **Noeris**: PwnKit Labs Research OS for autonomous empirical discovery, currently led by a flagship GPU kernel optimization track.
+- **Noeris**: 0sec Labs Research OS for autonomous empirical discovery, currently led by a flagship GPU kernel optimization track.
 
 ## Thesis
 
@@ -28,7 +28,7 @@ That means:
 AI agents are being shipped into real workflows faster than teams can verify them.
 The bottleneck is no longer generation. It is trust.
 
-PwnKit Labs exists to close that gap.
+0sec Labs exists to close that gap.
 
 ## Status
 
