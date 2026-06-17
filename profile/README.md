@@ -1,41 +1,38 @@
 # 0sec Labs
 
-**Open-source adversarial security for the agentic AI era.**
+**We hack software to secure it.**
 
-0sec Labs builds open-source tools that find failures before attackers, customers, or production do.
+0sec Labs is an applied cybersecurity research lab building autonomous, agent-native systems that attack software the way real attackers do — then prove what breaks with working exploits and explain how to fix it.
 
-## Products
+AI writes and ships code faster than humans can review it. We think the next security layer has to attack continuously, prove impact with evidence instead of scores, and hand engineers — and AI agents — a reproducible fix.
 
-- **pwnkit**: Attack-driven evaluation and autonomous pentesting for web apps, source code, packages, and AI systems.
-- **foxguard**: Linter-fast security scanning and policy checks to prevent regressions before deploy.
-- **opensoar**: Response and orchestration for routing validated failures into real operator workflows.
-- **Noeris**: 0sec Labs Research OS for autonomous empirical discovery, currently led by a flagship GPU kernel optimization track.
+## What we build
 
-## Thesis
+- **pwnkit** — our autonomous hacking engine. Research agents find vulnerabilities; independent verify agents re-exploit each one and kill anything they can't reproduce. Closed source. → [0sec.ai/pwnkit](https://0sec.ai/pwnkit)
+- **0cloud** — the managed product around pwnkit: scoped targets, recurring runs, exploit-backed evidence, and triage workflows. → [0sec.ai](https://0sec.ai)
+- **[foxguard](https://github.com/0sec-labs/foxguard)** — open-source, linter-fast security scanning and policy checks that catch regressions before deploy. Our open trust signal.
+- **[opensoar](https://github.com/opensoar-hq/opensoar-core)** — response and orchestration for routing validated failures into real operator workflows.
+- **[noeris](https://github.com/0sec-labs/noeris)** — our research OS for autonomous empirical discovery, currently led by a flagship GPU kernel-optimization track.
 
-Most AI reliability tooling measures prompts, traces, and outputs.
+## How we think about it
 
-We care about whether a capable system can be broken, exploited, or pushed outside its intended bounds.
+Most AI-reliability tooling measures prompts, traces, and outputs. We care about whether a capable system can actually be broken, exploited, or pushed outside its intended bounds.
 
-That means:
-
-- adversarial testing, not just happy-path evals
+- attacks and working exploits, not happy-path evals
 - evidence-backed findings, not vibe-based scores
 - prevention and response, not detection alone
 
 ## Why now
 
-AI agents are being shipped into real workflows faster than teams can verify them.
-The bottleneck is no longer generation. It is trust.
-
-0sec Labs exists to close that gap.
+AI agents are being shipped into real workflows faster than teams can verify them. The bottleneck is no longer generation — it's trust. 0sec Labs exists to close that gap.
 
 ## Status
 
-The org is being consolidated around the core company products now.
+Consolidating around the core company products:
 
-- `pwnkit` is the flagship wedge
-- `pwnkit-cloud` is the hosted/private runtime surface
-- `foxguard` and `opensoar` are sibling products in the same company story
+- **pwnkit** is the flagship engine (closed source)
+- **0cloud** is the managed, hosted surface
+- **foxguard** and **opensoar** are open-source siblings in the same story
+- **noeris** strengthens the shared research and evaluation substrate the products build on
 
-Noeris currently sits adjacent to the core security products: it strengthens the shared research, optimization, and evaluation substrate that future Labs products can build on.
+Built in Switzerland · [0sec.ai](https://0sec.ai)
