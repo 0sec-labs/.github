@@ -27,18 +27,18 @@ Most AI-reliability tooling measures prompts, traces, and outputs. We care about
 
 ## What we build
 
-- **pwnkit** — our autonomous hacking engine. Research agents find vulnerabilities; independent verify agents re-exploit each one and kill anything they can't reproduce. Closed source.
-- **0cloud** — the managed product around pwnkit: scoped targets, recurring runs, exploit-backed evidence, and triage workflows. → [0sec.ai](https://0sec.ai)
-- **0verse** — a binary-native Cyber Reasoning System. Point it at a *compiled* program — no source — and it runs the full find → prove → patch → verify loop, every finding backed by a reproducing proof-of-vulnerability. Private during MVP.
-- **[foxguard](https://github.com/0sec-labs/foxguard)** — open-source, linter-fast security scanning across 12 languages: rules, taint tracking, secrets, dependency and post-quantum crypto audits. Our open trust signal.
-- **[opensoar](https://github.com/opensoar-hq/opensoar-core)** — open-source SOAR: routing validated failures into real operator response and orchestration workflows.
-- **[noeris](https://github.com/0sec-labs/noeris)** — our research OS for autonomous empirical discovery, currently led by a flagship GPU kernel-optimization track.
+- <img height="14" src="https://raw.githubusercontent.com/0sec-labs/.github/main/profile/assets/icons/zap.png" alt="">&nbsp; **pwnkit** — our autonomous hacking engine. Research agents find vulnerabilities; independent verify agents re-exploit each one and kill anything they can't reproduce. Closed source.
+- <img height="14" src="https://raw.githubusercontent.com/0sec-labs/.github/main/profile/assets/icons/server.png" alt="">&nbsp; **0cloud** — the managed product around pwnkit: scoped targets, recurring runs, exploit-backed evidence, and triage workflows. → [0sec.ai](https://0sec.ai)
+- <img height="14" src="https://raw.githubusercontent.com/0sec-labs/.github/main/profile/assets/icons/file-binary.png" alt="">&nbsp; **0verse** — a binary-native Cyber Reasoning System. Point it at a *compiled* program — no source — and it runs the full find → prove → patch → verify loop, every finding backed by a reproducing proof-of-vulnerability. Private during MVP.
+- <img height="14" src="https://raw.githubusercontent.com/0sec-labs/.github/main/profile/assets/icons/shield-check.png" alt="">&nbsp; **[foxguard](https://github.com/0sec-labs/foxguard)** — open-source, linter-fast security scanning across 12 languages: rules, taint tracking, secrets, dependency and post-quantum crypto audits. Our open trust signal.
+- <img height="14" src="https://raw.githubusercontent.com/0sec-labs/.github/main/profile/assets/icons/workflow.png" alt="">&nbsp; **[opensoar](https://github.com/opensoar-hq/opensoar-core)** — open-source SOAR: routing validated failures into real operator response and orchestration workflows.
+- <img height="14" src="https://raw.githubusercontent.com/0sec-labs/.github/main/profile/assets/icons/beaker.png" alt="">&nbsp; **[noeris](https://github.com/0sec-labs/noeris)** — our research OS for autonomous empirical discovery, currently led by a flagship GPU kernel-optimization track.
 
 ## How we think about it
 
-- attacks and working exploits, not happy-path evals
-- evidence-backed findings, not vibe-based scores
-- prevention and response, not detection alone
+- <img height="14" src="https://raw.githubusercontent.com/0sec-labs/.github/main/profile/assets/icons/bug.png" alt="">&nbsp; attacks and working exploits, not happy-path evals
+- <img height="14" src="https://raw.githubusercontent.com/0sec-labs/.github/main/profile/assets/icons/verified.png" alt="">&nbsp; evidence-backed findings, not vibe-based scores
+- <img height="14" src="https://raw.githubusercontent.com/0sec-labs/.github/main/profile/assets/icons/shield-lock.png" alt="">&nbsp; prevention and response, not detection alone
 
 ## Why now
 
