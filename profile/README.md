@@ -1,22 +1,24 @@
+<!-- Status: 2026-09-16. Organization profile. -->
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0sec-labs/.github/main/profile/assets/0sec-aperture-white.png">
-    <img src="https://raw.githubusercontent.com/0sec-labs/.github/main/profile/assets/0sec-aperture-ink.png" alt="0sec Labs" width="220">
+    <img src="https://raw.githubusercontent.com/0sec-labs/.github/main/profile/assets/0sec-aperture-ink.png" alt="0security" width="320" height="32">
   </picture>
 </p>
 
-<h1 align="center">0sec Labs</h1>
+<h1 align="center">0security</h1>
 
 <p align="center">
-  <strong>Hack any software before attackers do.</strong><br/>
+  <strong>We make software secure itself.</strong><br/>
   <em>The Swiss Applied AI & Cybersecurity Research Lab</em>
 </p>
 
 <p align="center">
-  <a href="https://0.security"><img src="https://img.shields.io/badge/site-0.security-DC2626?style=flat-square&labelColor=1A1815" alt="0.security" /></a>
-  <a href="https://github.com/0sec-labs/0sec"><img src="https://img.shields.io/badge/open_source-0sec-3fb950?style=flat-square&labelColor=1A1815" alt="0sec" /></a>
-  <a href="https://docs.0.security"><img src="https://img.shields.io/badge/docs-docs.0.security-3fb950?style=flat-square&labelColor=1A1815" alt="docs" /></a>
-  <img src="https://img.shields.io/badge/built_in-Switzerland-DC2626?style=flat-square&labelColor=1A1815" alt="Built in Switzerland" />
+  <a href="https://0.security"><img src="https://img.shields.io/badge/site-0.security-FD802E?style=flat-square&labelColor=403D39" alt="0.security" /></a>
+  <a href="https://github.com/0sec-labs/0sec"><img src="https://img.shields.io/badge/open_source-0sec-FD802E?style=flat-square&labelColor=403D39" alt="0sec" /></a>
+  <a href="https://docs.0.security"><img src="https://img.shields.io/badge/docs-docs.0.security-FD802E?style=flat-square&labelColor=403D39" alt="docs" /></a>
+  <img src="https://img.shields.io/badge/built_in-Switzerland-FD802E?style=flat-square&labelColor=403D39" alt="Built in Switzerland" />
 </p>
 
 ---
