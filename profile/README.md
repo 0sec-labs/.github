@@ -11,7 +11,7 @@
 
 <p align="center">
   <strong>We make software secure itself.</strong><br/>
-  The open-source security OS.
+  Open-source security testing, investigation, and remediation.
 </p>
 
 <p align="center">
@@ -23,11 +23,11 @@
 
 ---
 
-0.security brings your security tools and workflows together to find vulnerabilities, develop fixes, and verify the results.
+0security helps you find vulnerabilities, develop fixes, and verify the results.
 
 ## Build with 0security
 
-Use **0**, the open-source security OS, from the CLI, local browser, CI/CD pipeline, or your existing coding agent. Investigate source, run security evaluations, and work on binary analysis and reverse engineering in the same workspace.
+Use **0security** from the CLI, local browser, CI/CD pipeline, or your existing coding agent. Investigate source, run security evaluations, and work on binary analysis and reverse engineering in the same workspace.
 
 [Get started on GitHub](https://github.com/0sec-labs/0) · [Explore the product](https://0.security/harness/) · [Source code](https://github.com/0sec-labs/0)
 
@@ -39,7 +39,7 @@ Build on the open-source core with enterprise automation, integrations, and exte
 
 ## Open source
 
-- **[0](https://github.com/0sec-labs/0)**: the security OS for investigations, evaluations, CI/CD, fix development, and specialist research. Binary analysis and reverse engineering are part of 0, with target-specific tool and executor prerequisites.
+- **[0security](https://github.com/0sec-labs/0)**: open-source security testing, investigation, evaluations, CI/CD, and fix development. Binary analysis and reverse engineering are part of 0, with target-specific tool and executor prerequisites.
 - **[Foxguard](https://github.com/0sec-labs/foxguard)**: code, secret, dependency, and post-quantum inventory checks. The static scanner used by 0.
 
 ## Research
